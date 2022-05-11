@@ -5,3 +5,4 @@ before starting give a read to first link
 4. [Why Random Forests can’t predict trends and how to overcome this problem?](https://medium.datadriveninvestor.com/why-wont-time-series-data-and-random-forests-work-very-well-together-3c9f7b271631)
 5. [Cross Validation in Time Series](https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/talking-about-the-past)
 6. [Time series different type of Cross validation with python](https://hub.packtpub.com/cross-validation-strategies-for-time-series-forecasting-tutorial/)
+7. [Cross validation with Learning curve in python](https://towardsdatascience.com/learning-curve-to-identify-overfitting-underfitting-problems-133177f38df5)
